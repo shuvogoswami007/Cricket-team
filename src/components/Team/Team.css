@@ -1,0 +1,8 @@
+.team-container {
+    display: flex;
+  }
+  .player-container {
+    width: 75%;
+    border-right: 1px solid lightgray;
+  }
+  

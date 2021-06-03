@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "BasePrice": 30000,
+    "picture": "https://freepikpsd.com/wp-content/uploads/2020/01/tamim-iqbal-PNG-Images.png",
+    "age": 34,
+    "name": "Tamim  Iqbal",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 1,
+    "BasePrice": 32000,
+    "picture": "https://www.cricket.com.au/~/media/Players/Men/International/Bangladesh/soumya-sarkar-ban.ashx",
+    "age": 24,
+    "name": "Soumya sarker",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 2,
+    "BasePrice": 25000,
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/1596.png",
+    "age": 26,
+    "name": "Liton Das",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 3,
+    "BasePrice": 28000,
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/391.png",
+    "age": 32,
+    "name": "Mashrafee Mortaza",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 4,
+    "BasePrice": 30000,
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "age": 24,
+    "name": "Shakib Al Hasan",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 5,
+    "BasePrice": 35000,
+    "picture": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/mushfiqur-rahim-ban.ashx",
+    "age": 34,
+    "name": "Mushfiqur Rahim",
+    "countryName": "Bangladesh"
+  },
+  {
+    "index": 6,
+    "BasePrice": 28000,
+    "picture": "https://ttensports.com/wp-content/uploads/1988/05/Sunil-Narine-Left.png",
+    "age": 28,
+    "name": "Sunil Narine",
+    "countryName": "West Indies"
+  },
+  {
+    "index": 7,
+    "BasePrice": 31000,
+    "picture": "https://cricdaddy.com/wp-content/uploads/2020/11/Mitchell-Starc-CWC19.png",
+    "age": 34,
+    "name": "Mitchell Starc",
+    "countryName": "Australia"
+  },
+  {
+    "index": 8,
+    "BasePrice": 32000,
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/2885.png",
+    "age": 31,
+    "name": "Rashid Khan",
+    "countryName": "Afghanistan"
+  },
+  {
+    "index": 9,
+    "BasePrice": 28500,
+    "picture": "https://d1lqa1hxirsbhr.cloudfront.net/player/cricket/min_trent_boult.png",
+    "age": 25,
+    "name": "Trent Boult",
+    "countryName": "New Zealand"
+  },
+  {
+    "index": 10,
+    "BasePrice": 32400,
+    "picture": "https://a.espncdn.com/i/headshots/cricket/players/full/625383.png",
+    "age": 38,
+    "name": "Jasprit Bumrah",
+    "countryName": "India"
+  },
+  {
+    "index": 11,
+    "BasePrice": 30000,
+    "picture": "https://storage.googleapis.com/cricketimages/Players/8C.png",
+    "age": 27,
+    "name": "Kane Williamson",
+    "countryName": "New Zealand"
+  },
+  {
+    "index": 12,
+    "BasePrice": 29000,
+    "picture": "https://i.pinimg.com/originals/2c/cb/cb/2ccbcb3e09e47dfdec9be15057132fac.png",
+    "age": 24,
+    "name": "David Warner",
+    "countryName": "Australia"
+  },
+  {
+    "index": 13,
+    "BasePrice": 27500,
+    "picture": "https://resources.pulse.icc-cricket.com/players/284/215.png",
+    "age": 27,
+    "name": "Thisara Perera",
+    "countryName": "Sri Lanka"
+  },
+  {
+    "index": 14,
+    "BasePrice": 35600,
+    "picture": "https://p.kindpng.com/picc/s/655-6559456_andre-russell-png-transparent-png.png",
+    "age": 30,
+    "name": "Andre Russell",
+    "countryName": "West Indies"
+  }
+]
